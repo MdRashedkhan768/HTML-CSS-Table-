@@ -1,0 +1,28 @@
+
+.cricket{
+    background-color: rgb(220, 228, 167);
+}
+table, th, tr, td{
+    border-collapse: collapse;
+    border-radius: 20px;
+    padding: 10px;
+    background-color: rgb(135, 222, 174);
+    
+}
+table{
+    margin: auto;
+    margin-top: 30px;
+}
+ table, th{
+    text-shadow: 2px 2px  rgb(194, 207, 138);
+    color: hsl(253, 88%, 44%);
+}
+tr:hover{
+color: deeppink;
+}
+h1{
+    justify-content: center;
+    margin-top: 30px;
+color: brown;
+    margin-left: 350px;
+}
